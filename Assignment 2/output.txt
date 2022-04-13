@@ -1,0 +1,13 @@
+Goal state reached
+
+State reached
+A D B 
+E F C 
+
+
+
+No. of states explored
+2025
+
+Time taken
+1.3341624736785889
