@@ -52,7 +52,7 @@ Generate uniform random 4-SAT for *n* variables and *k* clauses and check satisf
 #### Output 
 
 > Writes generated 4-SAT in *sat.txt*
-
+>
 > Writes result in *output.txt* in the same directory
 
 
