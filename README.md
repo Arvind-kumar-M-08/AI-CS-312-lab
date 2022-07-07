@@ -2,12 +2,12 @@ CS-312 Artificial Intelligence Lab
 =================================
 
 
-- [Lab 1](#Lab-1)
-- [Lab 2](#Lab-2)
-- [Lab 3](#Lab-3)
-- [Lab 4](#Lab-4)
-- [Lab 5](#Lab-5)
-- [Lab 6](#Lab-6)
+- [Lab 1](#lab-1---uninformed-search)
+- [Lab 2](#lab-2---heuristic-search-algorithms)
+- [Lab 3](#lab-3---heuristic-search-algorithms)
+- [Lab 4](#lab-4---travelling-salesman-problem)
+- [Lab 5](#lab-5---game-playing)
+- [Lab 6](#lab-6---support-vector-machine)
 
 ----------------------------------
 
