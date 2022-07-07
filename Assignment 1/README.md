@@ -34,7 +34,7 @@ Pacman is allowed to move UP, DOWN, LEFT and RIGHT (except for boundary).
 
 * *line 1 :* 0, 1 or 2 (respectively for bfs, dfs or dfid)
 
-* *line 2 :* m x n maze with food for packman
+* *Further lines :* m x n maze with food for packman
 
 ----------------------------------
 
@@ -48,7 +48,7 @@ Pacman is allowed to move UP, DOWN, LEFT and RIGHT (except for boundary).
 
 * *line 2 :* Length of the path discovered in second line
 
-* *line 3 :* m x n maze with path printed in '0's.
+* *Further lines :* m x n maze with path printed in '0's.
     
     
     
